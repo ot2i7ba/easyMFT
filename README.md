@@ -63,3 +63,9 @@ The TimelineExplorer and similar tools can sometimes show the status of a file, 
 
 ### SEQUENCE NUMBERS
 Timestamps such as date created, date last accessed, date last modified and date entered into the MFT can provide clues. Deleted files often retain their original timestamps. Sequence numbers in MFT entries can also provide clues. If a file is deleted and a new file with the same name is created, the sequence number of the MFT entry changes.
+
+## License
+This project is licensed under the **[MIT license](https://github.com/ot2i7ba/easyMFT/blob/main/LICENSE)**, providing users with flexibility and freedom to use and modify the software according to their needs.
+
+## Disclaimer
+This project is provided without warranties. Users are advised to review the accompanying license for more information on the terms of use and limitations of liability.
